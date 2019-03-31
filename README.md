@@ -1,4 +1,4 @@
-![Capture of the page](./capture/todolist.png)
+![Capture of the page](./todolist.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
