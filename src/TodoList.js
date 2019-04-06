@@ -1,3 +1,11 @@
+/**
+ * @file             : TodoList.js
+ * @author           : pdeguing <pdeguing@student.42.us.org>
+ * Date              : 05.04.2019
+ * Last Modified Date: 05.04.2019
+ * Last Modified By  : pdeguing <pdeguing@student.42.us.org>
+ */
+
 import React, { Component } from "react";
 import TodoItems from "./TodoItems";
 import "./TodoList.css";
@@ -53,7 +61,6 @@ class TodoList extends Component {
 						<input ref={(a) => this._inputElement = a}
 							placeholder="enter task">
 						</input>
-						<button type="submit">add</button>
 					</form>
 				</div>
 				<TodoItems entries={this.state.items}

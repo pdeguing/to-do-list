@@ -1,7 +1,15 @@
+/**
+ * File              : index.css
+ * Author            : pdeguing <pdeguing@student.42.us.org>
+ * Date              : 05.04.2019
+ * Last Modified Date: 05.04.2019
+ * Last Modified By  : pdeguing <pdeguing@student.42.us.org>
+ */
+
 body {
 	padding: 50px;
-	background-color: #121212;
-	color: #a4a4a4;
+	background-color: #f2f2f2;
+	color: #696969;
 	font-family: sans-serif;
 }
 
